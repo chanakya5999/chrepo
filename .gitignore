@@ -2,3 +2,5 @@
 *.py
 
 !seven.py
+
+[aeiou]*java
