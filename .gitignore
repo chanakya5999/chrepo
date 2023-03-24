@@ -1,2 +1,4 @@
 *.net
 *.py
+
+!seven.py
